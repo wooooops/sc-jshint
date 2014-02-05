@@ -1,6 +1,6 @@
 {
   "name": "sc-jshint",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Sitecore's grunt-contrib-jshint config",
   "main": "index.js",
   "scripts": {
